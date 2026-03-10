@@ -1,0 +1,26 @@
+[
+{
+"name":"Pashmina Ceruty Premium",
+"price":"28000",
+"img":"https://picsum.photos/400?1",
+"category":"fashion",
+"link":"LINK-AFFILIATE-SHOPEE"
+},
+
+{
+"name":"Speaker Bluetooth Mini",
+"price":"185000",
+"img":"https://picsum.photos/400?2",
+"category":"elektronik",
+"link":"LINK-AFFILIATE-SHOPEE"
+},
+
+{
+"name":"Holder HP Motor",
+"price":"28000",
+"img":"https://picsum.photos/400?3",
+"category":"otomotif",
+"link":"LINK-AFFILIATE-SHOPEE"
+}
+
+]
